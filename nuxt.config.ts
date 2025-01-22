@@ -10,7 +10,10 @@ export default defineNuxtConfig({
     baseURL: '/'  
   },
   nitro: {
-    preset: 'cloudflare'
+    preset: 'cloudflare-pages'
+  },
+  experimental: {
+    payloadExtraction: false
   },
   content: {
     // Content module configuration
