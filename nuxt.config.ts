@@ -6,6 +6,9 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss'
   ],
+  app: {
+    baseURL: '/'  
+  },
   nitro: {
     preset: 'cloudflare'
   },
