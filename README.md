@@ -1,42 +1,12 @@
-# Nuxt 3 Minimal Starter
+# 关于我
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+一只普普通通的程序员。喜欢看小说，看动漫。n多爱好培养中...
 
-## Setup
+# 关于这个项目
 
-Make sure to install the dependencies:
+分享各类技术和生活的点点滴滴，逼自己一把。让自己不至于几年后依然没有什么特长和兴趣。
 
-```bash
-# yarn
-yarn install
+# 项目的网站
 
-# npm
-npm install
+https://www.suowu.org/
 
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
