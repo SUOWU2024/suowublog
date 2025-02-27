@@ -37,8 +37,9 @@
     <footer class="backdrop-blur-md bg-white/70 border-t border-gray-100 mt-auto py-8">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <p class="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-pink-600">
-          © 2024 Suowu's Blog. All rights reserved.
+          © 2025 Suowu's Blog. All rights reserved.
         </p>
+        <p class="text-gray-700 mt-2">联系邮箱: <a href="mailto:suowu1026@gmail.com" class="text-indigo-600 hover:underline">suowu1026@gmail.com</a></p>
       </div>
     </footer>
   </div>

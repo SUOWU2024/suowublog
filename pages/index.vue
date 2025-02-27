@@ -3,7 +3,7 @@
     <div class="text-center mb-16 space-y-4">
       <h1 class="text-5xl sm:text-6xl md:text-7xl font-black">
         <span class="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 animate-gradient">
-          欢迎来到索悟的博客
+          Welcome to suowu's blog
         </span>
       </h1>
       <p class="mt-6 max-w-2xl mx-auto text-xl text-gray-600">
