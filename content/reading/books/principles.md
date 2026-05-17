@@ -1,7 +1,7 @@
 ---
 title: 原则
 author: 瑞·达利欧
-date: "2024-11-01"
+date: "2026-03-01"
 rating: 5
 tags: [读书, 哲学]
 ---
